@@ -1,0 +1,5 @@
+name: astrbot_plugin_cet_wordbook
+display_name: 四六级词书
+desc: 定时推送四/六级单词，可配置间隔、休息时间、每日数量，带小测与错题本
+version: v1.0.0
+author: local
